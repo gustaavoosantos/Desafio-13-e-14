@@ -120,7 +120,7 @@ p {
     font-family: 'Courier New', Courier, monospace;
     font-size: 30px;
     border: solid black 3px;
-    
+    background-color: rgb(235, 239, 246);    
 }
 
 img {
